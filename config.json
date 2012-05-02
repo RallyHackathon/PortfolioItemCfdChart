@@ -1,0 +1,14 @@
+{
+    "name":"CfdChartApp",
+    "className":"CfdChartApp",
+    "sdk":"2.0p",
+    "javascript":[
+        "js/cfdcalculator.js",
+        "js/CfdConfigBuilder.js",
+        "js/PiTree.js",
+        "js/App.js"
+    ],
+    "css":[
+        "css/app.css"
+    ]
+}
